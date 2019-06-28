@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2437'
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+covers:
+- cover_type: archival
+  image_path: 59813-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Smith, Sidney
@@ -47,6 +50,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/800
     wikipedia: http://en.wikipedia.org/wiki/William_Hazlitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59813#The-Footpath-Way-An-Anthology-for-Walkers
 gutenberg_issued: '2019-06-25'
 gutenberg_type: Text
 identifiers:
