@@ -1,0 +1,63 @@
+_repo: The-Footpath-Way-An-Anthology-for-Walkers_59813
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+creator:
+  authors:
+  - agent_name: Smith, Sidney
+    gutenberg_agent_id: '50640'
+    url: http://www.gutenberg.org/2009/agents/50640
+  - agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  - agent_name: al.
+    gutenberg_agent_id: '50641'
+    url: http://www.gutenberg.org/2009/agents/50641
+  - agent_name: Walton, Izaak
+    aliases:
+    - Walton, Izaac
+    - Walton, Isaac
+    - Walton, Isaak
+    - Walton, I. (Izaak)
+    - Walton, Izaack
+    birthdate: 1593
+    deathdate: 1683
+    gutenberg_agent_id: '350'
+    url: http://www.gutenberg.org/2009/agents/350
+    wikipedia: http://en.wikipedia.org/wiki/Izaak_Walton
+  - agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: http://en.wikipedia.org/wiki/William_Hazlitt
+description: ''
+gutenberg_issued: '2019-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Footpath Way
+
+  An Anthology for Walkers'
+url: http://www.gutenberg.org/ebooks/59813
